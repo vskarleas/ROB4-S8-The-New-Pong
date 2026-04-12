@@ -1,10 +1,12 @@
 var searchData=
 [
-  ['vasilis_0',['Vasilis',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md84',1,'Compilation [pendant la demo : Vasilis]'],['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md72',1,'Encapsulation + Def [Vasilis]'],['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md68',1,'Héritage + Def [Vasilis]']]],
-  ['vasilis_20diapo_205_20strong_1',['&lt;strong&gt;Les objets [1. Yanis, 2. Dounia, 3. Vasilis ] - Diapo 5&lt;/strong&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md63',1,'']]],
-  ['vasilis_20diapo_208_2',['Pour aller plus loin [Vasilis] - Diapo 8',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md78',1,'']]],
-  ['vasilis_20strong_3',['Vasilis strong',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md61',1,'&lt;strong&gt;Chiffrement des données [Vasilis]&lt;/strong&gt;'],['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md56',1,'&lt;strong&gt;Game Save [Vasilis]&lt;/strong&gt;'],['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md55',1,'&lt;strong&gt;High Score [Vasilis]&lt;/strong&gt;'],['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md74',1,'&lt;strong&gt;Les foncteurs [Vasilis]&lt;/strong&gt;']]],
-  ['vel_5fx_4',['vel_x',['../class_ball_base.html#a30c0e527d48e88f47af4ee03c9e7910f',1,'BallBase']]],
-  ['vel_5fy_5',['vel_y',['../class_ball_base.html#a07891facd75799611e8ba9e33160d8a7',1,'BallBase']]],
-  ['versions_6',['Versions',['../index.html#autotoc_md41',1,'']]]
+  ['white_0',['white',['../macros_8hpp.html#a2c5a75b2418362af39c6f76e11f7f0ef',1,'macros.hpp']]],
+  ['width_1',['width',['../class_letter.html#a125f4f780ec89143394fd586a53dec89',1,'Letter::width'],['../class_power.html#a21c6d9fc890e7acdefdaf8ae2c9c487d',1,'Power::width']]],
+  ['window_2',['window',['../ball__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window:&#160;ball_test.cpp'],['../letter__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window:&#160;letter_test.cpp'],['../paddle__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window:&#160;paddle_test.cpp']]],
+  ['window_5fheight_3',['WINDOW_HEIGHT',['../macros_8hpp.html#ab76d138fa589df9a65fc05eb3bd56073',1,'macros.hpp']]],
+  ['window_5fwidth_4',['WINDOW_WIDTH',['../macros_8hpp.html#a5e6ce0dd58078611570510dc4b8d81f3',1,'macros.hpp']]],
+  ['winner_5',['winner',['../class_game.html#aeda5b50e1b856dddd2cee76fcf302c44',1,'Game']]],
+  ['winner_5fname_6',['winner_name',['../class_game_over.html#a57b056ca2ce46b74de6d162e6ba4519a',1,'GameOver']]],
+  ['word_7',['word',['../class_letter.html#a13a33e7c660219afda09b0570d0f8f6d',1,'Letter']]],
+  ['words_8',['words',['../class_letter.html#a2f0b061aaa4d9d7988d0bdfe5180afc4',1,'Letter']]]
 ];

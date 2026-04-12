@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['c_20_3a_20the_20new_20pong_0',['C : The New Pong',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html',1,'Projet Multijoueur en C++ : The New Pong'],['../index.html',1,'Projet Multijoueur en C++ : The New Pong']]]
+  ['2_20dounia_203_20vasilis_20diapo_205_0',['&lt;b&gt;Les objets [1. Yanis, 2. Dounia, 3. Vasilis ] - Diapo 5&lt;/b&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md63',1,'']]],
+  ['2_20un_20jue_20lequel_1',['Le jeu [Yanis] - Diapo 2 (Un jue, lequel)',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md46',1,'']]]
 ];

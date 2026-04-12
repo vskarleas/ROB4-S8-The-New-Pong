@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['dec_0',['DEC',['../_c_make_c_x_x_compiler_id_8cpp.html#ad1280362da42492bbc11aa78cbf776ad',1,'CMakeCXXCompilerId.cpp']]]
+  ['storytime_5fmode_0',['STORYTIME_MODE',['../macros_8hpp.html#a428c9b321dacd658f63287c5f28f9f0f',1,'macros.hpp']]]
 ];

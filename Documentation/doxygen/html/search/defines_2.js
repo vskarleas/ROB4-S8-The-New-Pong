@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['ball_5ftype_5fselection_0',['BALL_TYPE_SELECTION',['../macros_8hpp.html#acde57b16eb60613cef657979a61a1549',1,'macros.hpp']]]
+  ['fun_5fmode_0',['FUN_MODE',['../macros_8hpp.html#a2144cfc68b520925888f6e0edda06a66',1,'macros.hpp']]]
 ];

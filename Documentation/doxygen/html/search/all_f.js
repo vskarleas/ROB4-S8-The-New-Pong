@@ -1,12 +1,14 @@
 var searchData=
 [
-  ['effect_5fis_5factive_0',['effect_is_active',['../class_power.html#a1acb27b2b5928ea9ffdea911ffacf001',1,'Power']]],
-  ['en_20c_20_3a_20the_20new_20pong_1',['en C : The New Pong',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html',1,'Projet Multijoueur en C++ : The New Pong'],['../index.html',1,'Projet Multijoueur en C++ : The New Pong']]],
-  ['en_20relaite_20def_20suffit_20pas_20dounia_2',['Fonctions lambda + Explication c&apos;est quoi en relaite (def suffit pas) [Dounia]',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md71',1,'']]],
-  ['encapsulation_3',['Encapsulation',['../index.html#autotoc_md30',1,'']]],
-  ['encapsulation_20def_20vasilis_4',['Encapsulation + Def [Vasilis]',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md72',1,'']]],
-  ['est_20quoi_20en_20relaite_20def_20suffit_20pas_20dounia_5',['Fonctions lambda + Explication c&apos;est quoi en relaite (def suffit pas) [Dounia]',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md71',1,'']]],
-  ['exit_5fgame_6',['exit_game',['../classpage__4b__1t.html#a533f8e2ece042474f10865d4b45db319',1,'page_4b_1t']]],
-  ['exit_5fmode_7',['exit_mode',['../classpage__3b__0t.html#aca257c270f13bf1f9b3360de4c54220b',1,'page_3b_0t']]],
-  ['explication_20c_20est_20quoi_20en_20relaite_20def_20suffit_20pas_20dounia_8',['Fonctions lambda + Explication c&apos;est quoi en relaite (def suffit pas) [Dounia]',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md71',1,'']]]
+  ['foncteurs_0',['&lt;b&gt;Les foncteurs&lt;/b&gt;',['../index.html#autotoc_md21',1,'']]],
+  ['foncteurs_20vasilis_1',['&lt;b&gt;Les foncteurs [Vasilis]&lt;/b&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md72',1,'']]],
+  ['fonctionalites_20les_20petits_20plus_20diapo_204_2',['Fonctionalites (Les petits plus) - Diapo 4',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md54',1,'']]],
+  ['fonctionnalités_20testées_3',['Fonctionnalités testées',['../index.html#autotoc_md35',1,'']]],
+  ['fonctions_20lambda_4',['Fonctions lambda',['../index.html#autotoc_md29',1,'']]],
+  ['fonctions_20lambda_20explication_20c_20est_20quoi_20en_20relaite_20def_20suffit_20pas_20dounia_5',['Fonctions lambda + Explication c&apos;est quoi en relaite (def suffit pas) [Dounia]',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md69',1,'']]],
+  ['font_6',['font',['../class_letter.html#a0c0f5799d2f56481c6e131e26464e57c',1,'Letter::font'],['../letter__test_8cpp.html#abf5bfa705e66ffc1ddaa6ce46c960873',1,'font:&#160;letter_test.cpp']]],
+  ['fun_20mode_7',['&lt;b&gt;Fun mode&lt;/b&gt;',['../index.html#autotoc_md12',1,'']]],
+  ['fun_20mode_20dounia_8',['&lt;b&gt;Fun mode [Dounia]&lt;/b&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md52',1,'']]],
+  ['fun_5fmode_9',['FUN_MODE',['../macros_8hpp.html#a2144cfc68b520925888f6e0edda06a66',1,'macros.hpp']]],
+  ['fun_5fplaying_10',['Fun_playing',['../game_8hpp.html#ad0ed1832dd134806ad335cdcc1a59ad2a7eddc2fd6d2ffeea220135f04b6ac81d',1,'game.hpp']]]
 ];
