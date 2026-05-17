@@ -29,12 +29,14 @@ elseif(UNIX AND NOT APPLE)
     pkg_check_modules(SDL2_NET REQUIRED SDL2_net)
 endif()
 
-# Find required packages
-find_package(SDL2 REQUIRED)
-find_package(SDL2_mixer REQUIRED)
-find_package(SDL2_ttf REQUIRED)
-find_package(SDL2_image REQUIRED)
-find_package(SDL2_net REQUIRED)
+# Find required packages (CMake config files — only available on macOS via Homebrew here)
+if(APPLE)
+    find_package(SDL2 REQUIRED)
+    find_package(SDL2_mixer REQUIRED)
+    find_package(SDL2_ttf REQUIRED)
+    find_package(SDL2_image REQUIRED)
+    find_package(SDL2_net REQUIRED)
+endif()
 
 # Include directories for SDL2 and its extensions
 include_directories(
@@ -76,27 +78,37 @@ add_library(${PROJECT_NAME}_lib
 # Create the main executable
 add_executable(${PROJECT_NAME} main.cpp)
 
+# Aggregate SDL2 link libraries per-platform
+if(APPLE)
+    set(SDL2_ALL_LIBS
+        SDL2::SDL2
+        SDL2::SDL2main
+        SDL2_ttf::SDL2_ttf
+        SDL2_mixer::SDL2_mixer
+        SDL2_image::SDL2_image
+        SDL2_net::SDL2_net
+    )
+else()
+    set(SDL2_ALL_LIBS
+        ${SDL2_LIBRARIES}
+        ${SDL2_TTF_LIBRARIES}
+        ${SDL2_MIXER_LIBRARIES}
+        ${SDL2_IMAGE_LIBRARIES}
+        ${SDL2_NET_LIBRARIES}
+    )
+endif()
+
 # Link the library to the main executable
-target_link_libraries(${PROJECT_NAME} 
-    PRIVATE 
+target_link_libraries(${PROJECT_NAME}
+    PRIVATE
     ${PROJECT_NAME}_lib
-    SDL2::SDL2
-    SDL2::SDL2main
-    SDL2_ttf::SDL2_ttf
-    SDL2_mixer::SDL2_mixer
-    SDL2_image::SDL2_image
-    SDL2_net::SDL2_net
+    ${SDL2_ALL_LIBS}
 )
 
 # Link SDL2 libraries to the lib target
-target_link_libraries(${PROJECT_NAME}_lib 
+target_link_libraries(${PROJECT_NAME}_lib
     PRIVATE
-    SDL2::SDL2
-    SDL2::SDL2main
-    SDL2_ttf::SDL2_ttf
-    SDL2_mixer::SDL2_mixer
-    SDL2_image::SDL2_image
-    SDL2_net::SDL2_net
+    ${SDL2_ALL_LIBS}
 )
 
 # Include directories

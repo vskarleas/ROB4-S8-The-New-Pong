@@ -4,28 +4,23 @@ add_executable(ball_test ball_test.cpp)
 add_executable(paddle_test paddle_test.cpp)
 add_executable(letter_test letter_test.cpp)
 
-# Associating any libraries that are may needed for the tests
+# Associating any libraries that are may needed for the tests.
+# The parent CMakeLists.txt defines SDL2_ALL_LIBS per-platform; reuse it here.
 target_link_libraries(user_test PRIVATE ${PROJECT_NAME}_lib)
-target_link_libraries(ball_test 
-    PRIVATE 
+target_link_libraries(ball_test
+    PRIVATE
     ${PROJECT_NAME}_lib
-    SDL2::SDL2
-    SDL2::SDL2main
-    SDL2_image::SDL2_image
-    SDL2_mixer::SDL2_mixer
+    ${SDL2_ALL_LIBS}
 )
-target_link_libraries(paddle_test 
-    PRIVATE 
+target_link_libraries(paddle_test
+    PRIVATE
     ${PROJECT_NAME}_lib
-    SDL2::SDL2
-    SDL2::SDL2main
+    ${SDL2_ALL_LIBS}
 )
-target_link_libraries(letter_test 
-    PRIVATE 
+target_link_libraries(letter_test
+    PRIVATE
     ${PROJECT_NAME}_lib
-    SDL2::SDL2
-    SDL2::SDL2main
-    SDL2_ttf::SDL2_ttf
+    ${SDL2_ALL_LIBS}
 )
 
 # CTest config
