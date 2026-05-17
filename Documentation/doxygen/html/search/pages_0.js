@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['1_20logo_0',['L&apos;objectif [Yanis] - Diapo 1 (logo)',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md44',1,'']]],
-  ['1_20yanis_202_20dounia_203_20vasilis_20diapo_205_1',['&lt;b&gt;Les objets [1. Yanis, 2. Dounia, 3. Vasilis ] - Diapo 5&lt;/b&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md63',1,'']]]
+  ['projet_20multijoueur_20en_20c_2b_2b_20_3a_20the_20new_20pong_771',['Projet Multijoueur en C++ : The New Pong',['../index.html',1,'(Global Namespace)'],['../md_PRESENTATION.html',1,'(Global Namespace)']]]
 ];

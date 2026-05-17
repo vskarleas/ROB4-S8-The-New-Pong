@@ -48,8 +48,8 @@ Pour simplifier cette étape, nous avons également créé un script Bash qui v�
 Pour démarrer le programme en mode automatique, suivez les étapes suivantes :
 
 1. Ouvrez un terminal et se rediriger vers un repertoire souhaité (par exemple `cd ~/Downloads`)
-2. Faire un clone du projet via la commande : `git clone https://github.com/vskarleas/The-New-Pong`
-3. Acceder au projet cloné via la commande : `cd The-New-Pong`
+2. Faire un clone du projet via la commande : `git clone https://github.com/vskarleas/ROB4-S8-The-New-Pong`
+3. Acceder au projet cloné via la commande : `cd ROB4-S8-The-New-Pong`
 4. Saisissez `chmod 777 play.sh` dans le terminal, puis lancez le script avec `bash play.sh`.
 
 ## Documentation

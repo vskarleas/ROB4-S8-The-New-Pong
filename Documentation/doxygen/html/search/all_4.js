@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['5_0',['&lt;b&gt;Les objets [1. Yanis, 2. Dounia, 3. Vasilis ] - Diapo 5&lt;/b&gt;',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md63',1,'']]]
+  ['effect_5fis_5factive_61',['effect_is_active',['../classPower.html#a1acb27b2b5928ea9ffdea911ffacf001',1,'Power']]],
+  ['exit_5fgame_62',['exit_game',['../classpage__4b__1t.html#a533f8e2ece042474f10865d4b45db319',1,'page_4b_1t']]],
+  ['exit_5fmode_63',['exit_mode',['../classpage__3b__0t.html#aca257c270f13bf1f9b3360de4c54220b',1,'page_3b_0t']]]
 ];

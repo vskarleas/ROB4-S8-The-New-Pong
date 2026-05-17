@@ -1,6 +1,12 @@
 var searchData=
 [
-  ['jeu_0',['jeu',['../index.html#autotoc_md23',1,'&lt;b&gt;La logique du jeu&lt;/b&gt;'],['../index.html#autotoc_md2',1,'Le jeu'],['../index.html#autotoc_md39',1,'UML – Modélisation des classes du jeu']]],
-  ['jeu_20yanis_20diapo_202_20un_20jue_20lequel_1',['Le jeu [Yanis] - Diapo 2 (Un jue, lequel)',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md46',1,'']]],
-  ['jue_20lequel_2',['Le jeu [Yanis] - Diapo 2 (Un jue, lequel)',['../md__p_r_e_s_e_n_t_a_t_i_o_n.html#autotoc_md46',1,'']]]
+  ['white_354',['white',['../macros_8hpp.html#a2c5a75b2418362af39c6f76e11f7f0ef',1,'macros.hpp']]],
+  ['width_355',['width',['../classLetter.html#a125f4f780ec89143394fd586a53dec89',1,'Letter::width()'],['../classPower.html#a21c6d9fc890e7acdefdaf8ae2c9c487d',1,'Power::width()']]],
+  ['window_356',['window',['../ball__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window():&#160;ball_test.cpp'],['../letter__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window():&#160;letter_test.cpp'],['../paddle__test_8cpp.html#aaa8e409e04dcf575ef63fd5fb3db06f9',1,'window():&#160;paddle_test.cpp']]],
+  ['window_5fheight_357',['WINDOW_HEIGHT',['../macros_8hpp.html#ab76d138fa589df9a65fc05eb3bd56073',1,'macros.hpp']]],
+  ['window_5fwidth_358',['WINDOW_WIDTH',['../macros_8hpp.html#a5e6ce0dd58078611570510dc4b8d81f3',1,'macros.hpp']]],
+  ['winner_359',['winner',['../classGame.html#aeda5b50e1b856dddd2cee76fcf302c44',1,'Game']]],
+  ['winner_5fname_360',['winner_name',['../classGameOver.html#a57b056ca2ce46b74de6d162e6ba4519a',1,'GameOver']]],
+  ['word_361',['word',['../classLetter.html#a13a33e7c660219afda09b0570d0f8f6d',1,'Letter']]],
+  ['words_362',['words',['../classLetter.html#a2f0b061aaa4d9d7988d0bdfe5180afc4',1,'Letter']]]
 ];
