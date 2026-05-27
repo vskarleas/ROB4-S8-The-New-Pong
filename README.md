@@ -1,6 +1,10 @@
 # Projet Multijoueur en C++ : The New Pong
 
-###### Auteurs: Dounia Bakalem, Yanis Sadoun, Vasileios Filippos Skarleas
+## Authors
+
+* Dounia Bakalem
+* Vasileios Filippos Skarleas
+* Yanis Sadoun
 
 ## L'objectif
 
@@ -601,3 +605,9 @@ Le versioning est un élément clé en programmation, assurant la cohérence des
 * V13.2.1: Fixed a logic issue when we were starting a new game on fun mode or storytime mode after it was completed due to victory conditions. Foudn out that the rounds counter were not reinitialised and was redirecting the users directly to the Game Over page evene after the creation of a new game.
 
 ---
+
+### License Information
+
+**ROB4-S8-The-New-Pong** © 2025 by **Dounia Bakalem**, **Vasilis Filippos Skarleas**, and **Yanis Sadoun** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
+
+This work also includes content that is not the property of the authors and is subject to copyright and other licenses from their respective owners.
